@@ -1,0 +1,20 @@
+{
+    "respuesta": {
+        "exitoso": true,
+        "error": false,
+        "descripcion": null
+    },
+    "datos": [
+        {
+            "nombre_completo": "nombre apellido1 apellido2",
+            "identificacion": "1-1234-5678",
+            "id_servicio": "123456",
+            "id_subproducto": "ACUE",
+            "id_contrato": "65432",
+            "direccion_completa": "esto es una direccion",
+            "telefono1": "",
+            "telefono2": "12345678",
+            "correos": []
+        }
+    ]
+}
