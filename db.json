@@ -1,8 +1,8 @@
 {
     "respuesta": {
-        "exitoso": false,
-        "error": true,
-        "descripcion": "esto es una prueba de funcionamiento"
+        "exitoso": true,
+        "error": false,
+        "descripcion": null
     },
     "datos": [
         {
