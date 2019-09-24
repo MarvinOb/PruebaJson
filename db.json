@@ -14,7 +14,7 @@
             "direccion_completa": "esto es una direccion",
             "telefono1": "",
             "telefono2": "12345678",
-            "correos": []
+            "correos": ["correo@gmail.com"]
         }
     ]
 }
